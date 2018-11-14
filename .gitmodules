@@ -1,3 +1,6 @@
 [submodule "sym_host"]
 	path = sym_host
 	url = https://github.com/varshapwalia/sym_host
+[submodule "tests"]
+	path = tests
+	url = https://github.com/varshapwalia/sym_host
